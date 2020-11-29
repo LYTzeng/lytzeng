@@ -23,6 +23,17 @@
 - Recently I'm trying to strike a balance between... well, not work and life, but work and research (more urgent) 😅
 
 <div align="center">
+<p align="left">Languages / Tools</p>
+<p>
+  <img src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=fff">
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=fff">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=fff">
+  <img src="ttps://img.shields.io/badge/-Amazon Web Services-232f3e?style=flat-square&logo=Amazon-aws&logoColor=fff">
+</p>
+</div>
+
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lytzeng&show_icons=true&langs_count=10&layout=compact&include_all_commits=true&bg_color=232f3e&title_color=fff&text_color=fff&hide=jupyter%20notebook,css,html,javascript,c%23">
   <img src="https://github-readme-stats.vercel.app/api?username=lytzeng&show_icons=true&line_height=20&bg_color=232f3e&title_color=ec912d&text_color=fff&icon_color=ec912d">
 </div>
