@@ -22,16 +22,25 @@
 - [Check out my blog](https://lytzeng.github.io)!
 - Recently I'm trying to strike a balance between... well, not work and life, but work and research (more urgent) 😅
 
-<div align="center">
-<p align="left">Languages / Tools</p>
-<p>
-  <img src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=fff">
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=fff">
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=fff">
-  <img src="ttps://img.shields.io/badge/-Amazon Web Services-232f3e?style=flat-square&logo=Amazon-aws&logoColor=fff">
-</p>
-</div>
+#### Technology Stack
+![](https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=fff)
+![](https://img.shields.io/badge/-%2B%2B-00599c?style=flat-square&logo=C%2B%2B&logoColor=fff)
+![](https://img.shields.io/badge/-Go-00add8?style=flat-square&logo=Go&logoColor=fff)
+![](https://img.shields.io/badge/-Javascript-f7df1e?style=flat-square&logo=JavaScript&logoColor=000)
+![](https://img.shields.io/badge/-django-092e20?style=flat-square&logo=Django&logoColor=fff)
 
+![](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=fff)
+![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
+![](https://img.shields.io/badge/-Amazon%20Web%20Services-232f3e?style=flat-square&logo=Amazon-aws&logoColor=fff)
+![](https://img.shields.io/badge/-Google%20Cloud-4285f4?style=flat-square&logo=Google-Cloud&logoColor=fff)
+![](https://img.shields.io/badge/-Ansible-ee0000?style=flat-square&logo=Ansible&logoColor=fff)
+![](https://img.shields.io/badge/-Terraform-623ce4?style=flat-square&logo=Terraform&logoColor=fff)
+![](https://img.shields.io/badge/-Cisco%20Networking-1ba0d7?style=flat-square&logo=Cisco&logoColor=fff)
+
+![](https://img.shields.io/badge/-VSCode-007acc?style=flat-square&logo=Visual-Studio-Code&logoColor=fff)
+![](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=fff)
+
+![](https://img.shields.io/badge/-Ableton%20Live-000000?style=flat-square&logo=Ableton-Live&logoColor=fff)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lytzeng&show_icons=true&langs_count=10&layout=compact&include_all_commits=true&bg_color=232f3e&title_color=fff&text_color=fff&hide=jupyter%20notebook,css,html,javascript,c%23">
