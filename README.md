@@ -24,11 +24,11 @@
 - Recently I'm trying to strike a balance between... well, not work and life, but work and research (more urgent) 😅
 
 #### Technology Stack
-![](https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=fff)
+![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-C%2B%2B-00599c?style=flat-square&logo=C%2B%2B&logoColor=fff)
 ![](https://img.shields.io/badge/-Go-00add8?style=flat-square&logo=Go&logoColor=fff)
-![](https://img.shields.io/badge/-Javascript-f7df1e?style=flat-square&logo=JavaScript&logoColor=000)
-![](https://img.shields.io/badge/-django-092e20?style=flat-square&logo=Django&logoColor=fff)
+![](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=JavaScript&logoColor=000)
+![](https://img.shields.io/badge/-Django-092e20?style=flat-square&logo=Django&logoColor=fff)
 
 ![](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=fff)
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
