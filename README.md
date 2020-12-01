@@ -16,8 +16,9 @@
 </div>
 
 ---
-- I'm an Cloud Support Intern at [AWS](https://aws.amazon.com/tw) Taiwan
-- Also studying for masters degree at [National Taipei University of Technology](https://ntut.edu.tw)
+- I'm a Cloud Support Intern at [AWS](https://aws.amazon.com/tw) Taiwan
+- Also studying for masters degree for CS at [(NTUT)National Taipei University of Technology](https://ntut.edu.tw)
+- Member of [Netlab](https://netlab.csie.ntut.edu.tw) in NTUT. (The website was designed by me)
 - Learning SDN, K8S CNI, Go
 - [Check out my blog](https://lytzeng.github.io)!
 - Recently I'm trying to strike a balance between... well, not work and life, but work and research (more urgent) 😅
