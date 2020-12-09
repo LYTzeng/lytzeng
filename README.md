@@ -44,7 +44,7 @@
 ![](https://img.shields.io/badge/-Ableton%20Live-000000?style=flat-square&logo=Ableton-Live&logoColor=fff)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lytzeng&show_icons=true&langs_count=10&layout=compact&include_all_commits=true&bg_color=232f3e&title_color=fff&text_color=fff&hide=jupyter%20notebook,css,html,javascript,c%23">
-  <img src="https://github-readme-stats.vercel.app/api?username=lytzeng&show_icons=true&line_height=20&bg_color=232f3e&title_color=ec912d&text_color=fff&icon_color=ec912d">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lytzeng&show_icons=true&hide_border=true&langs_count=10&layout=compact&include_all_commits=true&bg_color=232f3e&title_color=fff&text_color=fff&hide=jupyter%20notebook,css,html,javascript,c%23">
+  <img src="https://github-readme-stats.vercel.app/api?username=lytzeng&show_icons=true&hide_border=true&line_height=20&bg_color=232f3e&title_color=ec912d&text_color=fff&icon_color=ec912d">
 </div>
 
