@@ -16,13 +16,11 @@
 </div>
 
 ---
-- I'm a Cloud Support Intern at [AWS](https://aws.amazon.com/tw) Taiwan
-- Also studying for masters degree for CS at [(NTUT)National Taipei University of Technology](https://ntut.edu.tw)
-- Member of [Netlab](https://netlab.csie.ntut.edu.tw/en) in NTUT. (The website was designed by me)
-- Learning Container/Linux Networking
+- Cloud Support Associate & ex-Amazon Intern at [AWS](https://aws.amazon.com/tw) Taiwan
+- 2019-2021 [(NTUT)National Taipei University of Technology](https://ntut.edu.tw), M.S. in Computer Science
 - [Check out my blog](https://lytzeng.github.io)!
 
-#### Technology Stack
+#### Tech. Stack
 ![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-C%2B%2B-00599c?style=flat-square&logo=C%2B%2B&logoColor=fff)
 ![](https://img.shields.io/badge/-Go-00add8?style=flat-square&logo=Go&logoColor=fff)
