@@ -6,7 +6,7 @@
     <a href="https://www.linkedin.com/in/li-yen-tseng/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-232f3e?style=flat-square&logo=LinkedIn&logoColor=white">
     </a>
-    <a href="https://lytzeng.github.io/" target="_blank">
+    <a href="https://o3r.moe/" target="_blank">
       <img src="https://img.shields.io/badge/-Blog-232f3e?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0iI2ZmZiI+PHBhdGggZD0iTTE2IDJhMTQgMTQgMCAxMDE0IDE0QTE0IDE0IDAgMDAxNiAyem0xMiAxM2gtNmEyNCAyNCAwIDAwLTMtMTEgMTIgMTIgMCAwMTkgMTF6TTE2IDI4YTUgNSAwIDAxLTEgMCAyMiAyMiAwIDAxLTMtMTFoOGEyMiAyMiAwIDAxLTMgMTEgNSA1IDAgMDEtMSAwem0tNC0xM2EyMiAyMiAwIDAxMy0xMSA2IDYgMCAwMTIgMCAyMiAyMiAwIDAxMyAxMXptMS0xMWEyNCAyNCAwIDAwLTMgMTFINGExMiAxMiAwIDAxOS0xMXpNNCAxN2g2YTI0IDI0IDAgMDAzIDExIDEyIDEyIDAgMDEtOS0xMXptMTUgMTFhMjQgMjQgMCAwMDMtMTFoNmExMiAxMiAwIDAxLTkgMTF6Ii8+PHBhdGggZGF0YS1uYW1lPSImbHQ7VHJhbnNwYXJlbnQgUmVjdGFuZ2xlJmd0OyIgZmlsbD0ibm9uZSIgZD0iTTMyIDB2MzJIMFYweiIvPjwvc3ZnPg==">
     </a>
     <a href="mailto:t104820003@ntut.org.tw" target="_blank">
@@ -18,7 +18,7 @@
 ---
 - Cloud Support Associate & ex-Amazon Intern at [AWS](https://aws.amazon.com/tw) Taiwan
 - 2019-2021 [(NTUT)National Taipei University of Technology](https://ntut.edu.tw), M.S. in Computer Science
-- [Check out my blog](https://lytzeng.github.io)!
+- [Check out my blog](https://o3r.moe)!
 
 #### Tech. Stack
 ![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=fff)
