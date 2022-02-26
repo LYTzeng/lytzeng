@@ -22,6 +22,8 @@
 
 #### Tech. Stack
 ![](https://img.shields.io/badge/-Amazon%20Web%20Services-232f3e?style=flat-square&logo=Amazon-aws&logoColor=fff)
+![](https://img.shields.io/badge/-CloudFront-232f3e?style=flat-square&logo=Amazon-aws&logoColor=fff)
+![](https://img.shields.io/badge/-S3-232f3e?style=flat-square&logo=Amazon-aws&logoColor=fff)
 
 ![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=JavaScript&logoColor=000)
@@ -29,7 +31,6 @@
 ![](https://img.shields.io/badge/-Go-00add8?style=flat-square&logo=Go&logoColor=fff)
 
 ![](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=fff)
-![](https://img.shields.io/badge/-Google%20Cloud-4285f4?style=flat-square&logo=Google-Cloud&logoColor=fff)
 ![](https://img.shields.io/badge/-Ansible-ee0000?style=flat-square&logo=Ansible&logoColor=fff)
 ![](https://img.shields.io/badge/-Terraform-623ce4?style=flat-square&logo=Terraform&logoColor=fff)
 ![](https://img.shields.io/badge/-Cisco%20Networking-1ba0d7?style=flat-square&logo=Cisco&logoColor=fff)
