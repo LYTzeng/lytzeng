@@ -9,7 +9,7 @@
     <a href="https://o3r.moe/" target="_blank">
       <img src="https://img.shields.io/badge/-Blog-232f3e?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0iI2ZmZiI+PHBhdGggZD0iTTE2IDJhMTQgMTQgMCAxMDE0IDE0QTE0IDE0IDAgMDAxNiAyem0xMiAxM2gtNmEyNCAyNCAwIDAwLTMtMTEgMTIgMTIgMCAwMTkgMTF6TTE2IDI4YTUgNSAwIDAxLTEgMCAyMiAyMiAwIDAxLTMtMTFoOGEyMiAyMiAwIDAxLTMgMTEgNSA1IDAgMDEtMSAwem0tNC0xM2EyMiAyMiAwIDAxMy0xMSA2IDYgMCAwMTIgMCAyMiAyMiAwIDAxMyAxMXptMS0xMWEyNCAyNCAwIDAwLTMgMTFINGExMiAxMiAwIDAxOS0xMXpNNCAxN2g2YTI0IDI0IDAgMDAzIDExIDEyIDEyIDAgMDEtOS0xMXptMTUgMTFhMjQgMjQgMCAwMDMtMTFoNmExMiAxMiAwIDAxLTkgMTF6Ii8+PHBhdGggZGF0YS1uYW1lPSImbHQ7VHJhbnNwYXJlbnQgUmVjdGFuZ2xlJmd0OyIgZmlsbD0ibm9uZSIgZD0iTTMyIDB2MzJIMFYweiIvPjwvc3ZnPg==">
     </a>
-    <a href="mailto:t104820003@ntut.org.tw" target="_blank">
+    <a href="mailto:oscar@o3r.moe" target="_blank">
       <img src="https://img.shields.io/badge/-Email-232f3e?style=flat-square&logo=Gmail&logoColor=white">
     </a>
   </p>
