@@ -16,7 +16,7 @@
 </div>
 
 ---
-- Cloud Support Associate & ex-Amazon Intern at [AWS](https://aws.amazon.com/tw) Taiwan
+- Cloud Support Engineer & ex-Amazon Intern at [AWS](https://aws.amazon.com/tw) Taiwan
 - 2019-2021 [(NTUT)National Taipei University of Technology](https://ntut.edu.tw), M.S. in Computer Science
 - [Check out my blog](https://o3r.moe)!
 
