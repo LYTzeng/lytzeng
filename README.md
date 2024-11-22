@@ -16,9 +16,11 @@
 </div>
 
 ---
-- Cloud Support Engineer & ex-Amazon Intern at [AWS](https://aws.amazon.com/tw) Taiwan
-- 2019-2021 [(NTUT)National Taipei University of Technology](https://ntut.edu.tw), M.S. in Computer Science
-- [Check out my blog](https://o3r.moe)!
+
+#### Disclaimer:
+Contributions made under the username LYTzeng are my personal work and do not reflect the views or support of my employer unless explicitly distributed through the company's official organization.
+
+---
 
 #### Tech. Stack
 ![](https://img.shields.io/badge/-Amazon%20Web%20Services-232f3e?style=flat-square&logo=Amazon-aws&logoColor=fff)
